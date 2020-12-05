@@ -1,0 +1,54 @@
+{
+  "roll": {
+    "num": 0,
+    "type": ["f", 4]
+  },
+  "pitch": {
+    "num": 1,
+    "type": ["f", 4]
+  },
+  "yaw": {
+    "num": 2,
+    "type": ["f", 4]
+  },
+  "loop_time": {
+    "num": 3,
+    "type": ["H", 2]
+  },
+  "rax": {
+    "num": 4,
+    "type": ["h", 2]
+  },
+  "ray": {
+    "num": 5,
+    "type": ["h", 2]
+  },
+  "raz": {
+    "num": 6,
+    "type": ["h", 2]
+  },
+  "rgx": {
+    "num": 7,
+    "type": ["h", 2]
+  },
+  "rgy": {
+    "num": 8,
+    "type": ["h", 2]
+  },
+  "rgz": {
+    "num": 9,
+    "type": ["h", 2]
+  },
+  "rmx": {
+    "num": 10,
+    "type": ["h", 2]
+  },
+  "rmy": {
+    "num": 11,
+    "type": ["h", 2]
+  },
+  "rmz": {
+    "num": 12,
+    "type": ["h", 2]
+  }
+}
